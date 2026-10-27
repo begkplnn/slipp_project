@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "image": "syn_013.jpg",
+    "source": "synthetic",
+    "tags": [
+      "clean"
+    ]
+  },
+  "is_receipt": true,
+  "merchant_name": "Brindle & Co",
+  "store_location": "Leeds",
+  "purchase_date": "2026-10-10",
+  "purchase_time": "09:59",
+  "currency": "GBP",
+  "line_items": [
+    {
+      "description": "OAT DRINK 1L",
+      "quantity": 3,
+      "unit_price_minor": 180,
+      "total_minor": 540,
+      "kind": "item"
+    },
+    {
+      "description": "DARK CHOC 100G",
+      "quantity": 3,
+      "unit_price_minor": 135,
+      "total_minor": 405,
+      "kind": "item"
+    },
+    {
+      "description": "SEMI SKIMMED MILK 2L",
+      "quantity": 1,
+      "unit_price_minor": 155,
+      "total_minor": 155,
+      "kind": "item"
+    },
+    {
+      "description": "HAND SOAP 250ML",
+      "quantity": 2,
+      "unit_price_minor": 120,
+      "total_minor": 240,
+      "kind": "item"
+    },
+    {
+      "description": "MULTIBUY SAVING",
+      "quantity": 1,
+      "unit_price_minor": null,
+      "total_minor": -150,
+      "kind": "discount"
+    }
+  ],
+  "subtotal_minor": null,
+  "tax_minor": null,
+  "total_minor": 1190,
+  "payment_method": "mobile",
+  "readability": "clear",
+  "low_confidence_fields": []
+}

@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "image": "syn_018.jpg",
+    "source": "synthetic",
+    "tags": [
+      "clean"
+    ]
+  },
+  "is_receipt": true,
+  "merchant_name": "Brindle & Co",
+  "store_location": "York",
+  "purchase_date": "2026-09-03",
+  "purchase_time": "19:12",
+  "currency": "GBP",
+  "line_items": [
+    {
+      "description": "PASTA PENNE 500G",
+      "quantity": 2,
+      "unit_price_minor": 95,
+      "total_minor": 190,
+      "kind": "item"
+    },
+    {
+      "description": "SPARKLING WATER 1.5L",
+      "quantity": 3,
+      "unit_price_minor": 79,
+      "total_minor": 237,
+      "kind": "item"
+    }
+  ],
+  "subtotal_minor": null,
+  "tax_minor": null,
+  "total_minor": 427,
+  "payment_method": "card",
+  "readability": "clear",
+  "low_confidence_fields": []
+}

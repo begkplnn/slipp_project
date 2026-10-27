@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "image": "syn_004.jpg",
+    "source": "synthetic",
+    "tags": [
+      "blur"
+    ]
+  },
+  "is_receipt": true,
+  "merchant_name": "Fernbrook Pharmacy",
+  "store_location": "Bristol",
+  "purchase_date": "2026-10-07",
+  "purchase_time": "13:29",
+  "currency": "GBP",
+  "line_items": [
+    {
+      "description": "SPARKLING WATER 1.5L",
+      "quantity": 3,
+      "unit_price_minor": 79,
+      "total_minor": 237,
+      "kind": "item"
+    },
+    {
+      "description": "SEMI SKIMMED MILK 2L",
+      "quantity": 1,
+      "unit_price_minor": 155,
+      "total_minor": 155,
+      "kind": "item"
+    },
+    {
+      "description": "DARK CHOC 100G",
+      "quantity": 3,
+      "unit_price_minor": 135,
+      "total_minor": 405,
+      "kind": "item"
+    },
+    {
+      "description": "CROISSANT",
+      "quantity": 3,
+      "unit_price_minor": 145,
+      "total_minor": 435,
+      "kind": "item"
+    },
+    {
+      "description": "HAND SOAP 250ML",
+      "quantity": 1,
+      "unit_price_minor": 120,
+      "total_minor": 120,
+      "kind": "item"
+    },
+    {
+      "description": "COFFEE BEANS 250G",
+      "quantity": 2,
+      "unit_price_minor": 450,
+      "total_minor": 900,
+      "kind": "item"
+    }
+  ],
+  "subtotal_minor": null,
+  "tax_minor": null,
+  "total_minor": 2252,
+  "payment_method": "cash",
+  "readability": "clear",
+  "low_confidence_fields": []
+}

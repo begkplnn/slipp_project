@@ -1,0 +1,51 @@
+{
+  "_meta": {
+    "image": "syn_006.jpg",
+    "source": "synthetic",
+    "tags": [
+      "faded"
+    ]
+  },
+  "is_receipt": true,
+  "merchant_name": "Hollow Oak Grocers",
+  "store_location": "Islington",
+  "purchase_date": "2026-09-16",
+  "purchase_time": "12:07",
+  "currency": "GBP",
+  "line_items": [
+    {
+      "description": "COFFEE BEANS 250G",
+      "quantity": 1,
+      "unit_price_minor": 450,
+      "total_minor": 450,
+      "kind": "item"
+    },
+    {
+      "description": "GREEK YOGURT 500G",
+      "quantity": 1,
+      "unit_price_minor": 225,
+      "total_minor": 225,
+      "kind": "item"
+    },
+    {
+      "description": "SOURDOUGH LOAF",
+      "quantity": 3,
+      "unit_price_minor": 295,
+      "total_minor": 885,
+      "kind": "item"
+    },
+    {
+      "description": "CROISSANT",
+      "quantity": 1,
+      "unit_price_minor": 145,
+      "total_minor": 145,
+      "kind": "item"
+    }
+  ],
+  "subtotal_minor": null,
+  "tax_minor": null,
+  "total_minor": 1705,
+  "payment_method": "mobile",
+  "readability": "clear",
+  "low_confidence_fields": []
+}

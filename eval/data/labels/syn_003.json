@@ -1,0 +1,79 @@
+{
+  "_meta": {
+    "image": "syn_003.jpg",
+    "source": "synthetic",
+    "tags": [
+      "blur"
+    ]
+  },
+  "is_receipt": true,
+  "merchant_name": "Kettle Lane Bakery",
+  "store_location": "Brighton",
+  "purchase_date": "2026-10-20",
+  "purchase_time": "10:33",
+  "currency": "GBP",
+  "line_items": [
+    {
+      "description": "COFFEE BEANS 250G",
+      "quantity": 3,
+      "unit_price_minor": 450,
+      "total_minor": 1350,
+      "kind": "item"
+    },
+    {
+      "description": "CROISSANT",
+      "quantity": 3,
+      "unit_price_minor": 145,
+      "total_minor": 435,
+      "kind": "item"
+    },
+    {
+      "description": "SEMI SKIMMED MILK 2L",
+      "quantity": 2,
+      "unit_price_minor": 155,
+      "total_minor": 310,
+      "kind": "item"
+    },
+    {
+      "description": "TINNED TOMATOES",
+      "quantity": 1,
+      "unit_price_minor": 65,
+      "total_minor": 65,
+      "kind": "item"
+    },
+    {
+      "description": "APPLES 6PK",
+      "quantity": 1,
+      "unit_price_minor": 230,
+      "total_minor": 230,
+      "kind": "item"
+    },
+    {
+      "description": "CHEDDAR MATURE 400G",
+      "quantity": 3,
+      "unit_price_minor": 375,
+      "total_minor": 1125,
+      "kind": "item"
+    },
+    {
+      "description": "SPARKLING WATER 1.5L",
+      "quantity": 1,
+      "unit_price_minor": 79,
+      "total_minor": 79,
+      "kind": "item"
+    },
+    {
+      "description": "GREEK YOGURT 500G",
+      "quantity": 1,
+      "unit_price_minor": 225,
+      "total_minor": 225,
+      "kind": "item"
+    }
+  ],
+  "subtotal_minor": null,
+  "tax_minor": null,
+  "total_minor": 3819,
+  "payment_method": "mobile",
+  "readability": "clear",
+  "low_confidence_fields": []
+}

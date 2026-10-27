@@ -1,0 +1,72 @@
+{
+  "_meta": {
+    "image": "syn_012.jpg",
+    "source": "synthetic",
+    "tags": [
+      "blur"
+    ]
+  },
+  "is_receipt": true,
+  "merchant_name": "Hollow Oak Grocers",
+  "store_location": "Camden",
+  "purchase_date": "2026-09-21",
+  "purchase_time": "19:39",
+  "currency": "GBP",
+  "line_items": [
+    {
+      "description": "DARK CHOC 100G",
+      "quantity": 1,
+      "unit_price_minor": 135,
+      "total_minor": 135,
+      "kind": "item"
+    },
+    {
+      "description": "CROISSANT",
+      "quantity": 1,
+      "unit_price_minor": 145,
+      "total_minor": 145,
+      "kind": "item"
+    },
+    {
+      "description": "HAND SOAP 250ML",
+      "quantity": 1,
+      "unit_price_minor": 120,
+      "total_minor": 120,
+      "kind": "item"
+    },
+    {
+      "description": "GREEK YOGURT 500G",
+      "quantity": 1,
+      "unit_price_minor": 225,
+      "total_minor": 225,
+      "kind": "item"
+    },
+    {
+      "description": "FREE RANGE EGGS 6PK",
+      "quantity": 1,
+      "unit_price_minor": 210,
+      "total_minor": 210,
+      "kind": "item"
+    },
+    {
+      "description": "BASMATI RICE 1KG",
+      "quantity": 1,
+      "unit_price_minor": 249,
+      "total_minor": 249,
+      "kind": "item"
+    },
+    {
+      "description": "PARACETAMOL 16PK",
+      "quantity": 2,
+      "unit_price_minor": 89,
+      "total_minor": 178,
+      "kind": "item"
+    }
+  ],
+  "subtotal_minor": null,
+  "tax_minor": null,
+  "total_minor": 1262,
+  "payment_method": "cash",
+  "readability": "clear",
+  "low_confidence_fields": []
+}

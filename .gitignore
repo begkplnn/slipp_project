@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+eval/results/*
+!eval/results/.gitkeep
+# Real receipts never get committed, even redacted ones, until you've checked them by hand.
+eval/data/receipts/real_*
+eval/data/labels/real_*
+.DS_Store
+*.egg-info/

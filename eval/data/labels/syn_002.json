@@ -1,0 +1,79 @@
+{
+  "_meta": {
+    "image": "syn_002.jpg",
+    "source": "synthetic",
+    "tags": [
+      "rotated"
+    ]
+  },
+  "is_receipt": true,
+  "merchant_name": "Pennywise Market",
+  "store_location": "Croydon",
+  "purchase_date": "2026-10-18",
+  "purchase_time": "13:57",
+  "currency": "GBP",
+  "line_items": [
+    {
+      "description": "APPLES 6PK",
+      "quantity": 3,
+      "unit_price_minor": 230,
+      "total_minor": 690,
+      "kind": "item"
+    },
+    {
+      "description": "PASTA PENNE 500G",
+      "quantity": 1,
+      "unit_price_minor": 95,
+      "total_minor": 95,
+      "kind": "item"
+    },
+    {
+      "description": "GREEK YOGURT 500G",
+      "quantity": 2,
+      "unit_price_minor": 225,
+      "total_minor": 450,
+      "kind": "item"
+    },
+    {
+      "description": "CHEDDAR MATURE 400G",
+      "quantity": 1,
+      "unit_price_minor": 375,
+      "total_minor": 375,
+      "kind": "item"
+    },
+    {
+      "description": "CROISSANT",
+      "quantity": 2,
+      "unit_price_minor": 145,
+      "total_minor": 290,
+      "kind": "item"
+    },
+    {
+      "description": "TINNED TOMATOES",
+      "quantity": 2,
+      "unit_price_minor": 65,
+      "total_minor": 130,
+      "kind": "item"
+    },
+    {
+      "description": "BASMATI RICE 1KG",
+      "quantity": 1,
+      "unit_price_minor": 249,
+      "total_minor": 249,
+      "kind": "item"
+    },
+    {
+      "description": "SPARKLING WATER 1.5L",
+      "quantity": 1,
+      "unit_price_minor": 79,
+      "total_minor": 79,
+      "kind": "item"
+    }
+  ],
+  "subtotal_minor": null,
+  "tax_minor": null,
+  "total_minor": 2358,
+  "payment_method": "mobile",
+  "readability": "clear",
+  "low_confidence_fields": []
+}

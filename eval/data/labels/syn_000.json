@@ -1,0 +1,93 @@
+{
+  "_meta": {
+    "image": "syn_000.jpg",
+    "source": "synthetic",
+    "tags": [
+      "faded"
+    ]
+  },
+  "is_receipt": true,
+  "merchant_name": "Brindle & Co",
+  "store_location": "Leeds",
+  "purchase_date": "2026-09-17",
+  "purchase_time": "09:31",
+  "currency": "GBP",
+  "line_items": [
+    {
+      "description": "CROISSANT",
+      "quantity": 1,
+      "unit_price_minor": 145,
+      "total_minor": 145,
+      "kind": "item"
+    },
+    {
+      "description": "DARK CHOC 100G",
+      "quantity": 2,
+      "unit_price_minor": 135,
+      "total_minor": 270,
+      "kind": "item"
+    },
+    {
+      "description": "PASTA PENNE 500G",
+      "quantity": 1,
+      "unit_price_minor": 95,
+      "total_minor": 95,
+      "kind": "item"
+    },
+    {
+      "description": "FREE RANGE EGGS 6PK",
+      "quantity": 1,
+      "unit_price_minor": 210,
+      "total_minor": 210,
+      "kind": "item"
+    },
+    {
+      "description": "TINNED TOMATOES",
+      "quantity": 3,
+      "unit_price_minor": 65,
+      "total_minor": 195,
+      "kind": "item"
+    },
+    {
+      "description": "SEMI SKIMMED MILK 2L",
+      "quantity": 1,
+      "unit_price_minor": 155,
+      "total_minor": 155,
+      "kind": "item"
+    },
+    {
+      "description": "SPARKLING WATER 1.5L",
+      "quantity": 1,
+      "unit_price_minor": 79,
+      "total_minor": 79,
+      "kind": "item"
+    },
+    {
+      "description": "COFFEE BEANS 250G",
+      "quantity": 1,
+      "unit_price_minor": 450,
+      "total_minor": 450,
+      "kind": "item"
+    },
+    {
+      "description": "GREEK YOGURT 500G",
+      "quantity": 1,
+      "unit_price_minor": 225,
+      "total_minor": 225,
+      "kind": "item"
+    },
+    {
+      "description": "MULTIBUY SAVING",
+      "quantity": 1,
+      "unit_price_minor": null,
+      "total_minor": -150,
+      "kind": "discount"
+    }
+  ],
+  "subtotal_minor": null,
+  "tax_minor": null,
+  "total_minor": 1674,
+  "payment_method": "card",
+  "readability": "clear",
+  "low_confidence_fields": []
+}

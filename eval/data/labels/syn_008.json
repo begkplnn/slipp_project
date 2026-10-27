@@ -1,0 +1,79 @@
+{
+  "_meta": {
+    "image": "syn_008.jpg",
+    "source": "synthetic",
+    "tags": [
+      "noise"
+    ]
+  },
+  "is_receipt": true,
+  "merchant_name": "Hollow Oak Grocers",
+  "store_location": "Hackney",
+  "purchase_date": "2026-09-11",
+  "purchase_time": "15:45",
+  "currency": "GBP",
+  "line_items": [
+    {
+      "description": "SPARKLING WATER 1.5L",
+      "quantity": 3,
+      "unit_price_minor": 79,
+      "total_minor": 237,
+      "kind": "item"
+    },
+    {
+      "description": "TINNED TOMATOES",
+      "quantity": 1,
+      "unit_price_minor": 65,
+      "total_minor": 65,
+      "kind": "item"
+    },
+    {
+      "description": "PARACETAMOL 16PK",
+      "quantity": 2,
+      "unit_price_minor": 89,
+      "total_minor": 178,
+      "kind": "item"
+    },
+    {
+      "description": "BANANAS LOOSE",
+      "quantity": 0.471,
+      "unit_price_minor": 79,
+      "total_minor": 37,
+      "kind": "item"
+    },
+    {
+      "description": "BASMATI RICE 1KG",
+      "quantity": 1,
+      "unit_price_minor": 249,
+      "total_minor": 249,
+      "kind": "item"
+    },
+    {
+      "description": "ORANGE JUICE 1L",
+      "quantity": 1,
+      "unit_price_minor": 199,
+      "total_minor": 199,
+      "kind": "item"
+    },
+    {
+      "description": "SEMI SKIMMED MILK 2L",
+      "quantity": 1,
+      "unit_price_minor": 155,
+      "total_minor": 155,
+      "kind": "item"
+    },
+    {
+      "description": "PASTA PENNE 500G",
+      "quantity": 1,
+      "unit_price_minor": 95,
+      "total_minor": 95,
+      "kind": "item"
+    }
+  ],
+  "subtotal_minor": null,
+  "tax_minor": null,
+  "total_minor": 1215,
+  "payment_method": "card",
+  "readability": "clear",
+  "low_confidence_fields": []
+}

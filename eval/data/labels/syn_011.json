@@ -1,0 +1,72 @@
+{
+  "_meta": {
+    "image": "syn_011.jpg",
+    "source": "synthetic",
+    "tags": [
+      "rotated"
+    ]
+  },
+  "is_receipt": true,
+  "merchant_name": "Kettle Lane Bakery",
+  "store_location": "Brighton",
+  "purchase_date": "2026-10-15",
+  "purchase_time": "19:12",
+  "currency": "GBP",
+  "line_items": [
+    {
+      "description": "FREE RANGE EGGS 6PK",
+      "quantity": 2,
+      "unit_price_minor": 210,
+      "total_minor": 420,
+      "kind": "item"
+    },
+    {
+      "description": "SOURDOUGH LOAF",
+      "quantity": 1,
+      "unit_price_minor": 295,
+      "total_minor": 295,
+      "kind": "item"
+    },
+    {
+      "description": "GREEK YOGURT 500G",
+      "quantity": 1,
+      "unit_price_minor": 225,
+      "total_minor": 225,
+      "kind": "item"
+    },
+    {
+      "description": "DARK CHOC 100G",
+      "quantity": 2,
+      "unit_price_minor": 135,
+      "total_minor": 270,
+      "kind": "item"
+    },
+    {
+      "description": "OAT DRINK 1L",
+      "quantity": 1,
+      "unit_price_minor": 180,
+      "total_minor": 180,
+      "kind": "item"
+    },
+    {
+      "description": "APPLES 6PK",
+      "quantity": 1,
+      "unit_price_minor": 230,
+      "total_minor": 230,
+      "kind": "item"
+    },
+    {
+      "description": "BANANAS LOOSE",
+      "quantity": 0.523,
+      "unit_price_minor": 79,
+      "total_minor": 41,
+      "kind": "item"
+    }
+  ],
+  "subtotal_minor": null,
+  "tax_minor": null,
+  "total_minor": 1661,
+  "payment_method": "card",
+  "readability": "clear",
+  "low_confidence_fields": []
+}
